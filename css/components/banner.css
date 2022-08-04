@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Opti:wght@400;700&family=Merriweather:wght@300&display=swap');
+
+.banner {
+background-image: url("../../images/Glout.jpg");
+height: 80vh;
+background-size: cover;
+background-position: center;
+padding: 50px 0px 60px 70px;
+position: relative;
+}
+
+.banner h1, .banner p {
+  color: whitesmoke;
+  text-shadow: 1px 3px 4px black;
+  font-family: 'Kaisei Opti', serif;
+
+}
+.banner h1 {
+  font-size: 55px;
+}
+
+.banner p {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.chapeau {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+
+}

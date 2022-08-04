@@ -1,0 +1,16 @@
+.btn-primary {
+  padding: 12px 24px;
+  background-color:#278b4d;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  transition: .3s;
+  font-size: 17px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+}
+
+.btn-primary:hover {
+  transform: scale(1.5) rotate(360deg) ;
+  transition: .3s;
+}
